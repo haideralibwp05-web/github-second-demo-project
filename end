@@ -1,0 +1,12 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 08decae..ee5906c 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,4 +1,4 @@[m
+ <p>[m
+     hy everyone!I am Ali Haider.[m
+ </p>[m
+[31m-<b>this is a bold tag (button)</b>[m
+\ No newline at end of file[m
+[32m+[m[32m<b>this is a bold tag (dropdown)</b>[m
+\ No newline at end of file[m
